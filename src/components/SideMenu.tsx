@@ -12,7 +12,7 @@ const SideMenu = () => {
     { text: 'Store', icon: MdOutlineStore, path: '/store' },
     { text: 'SKU', icon: LuShapes, path: '/sku' },
     { text: 'Planning', icon: IoBarChartSharp, path: '/planning' },
-    { text: 'Charts', icon: MdOutlineInsertChart, path: '/charts' },
+    { text: 'Charts', icon: MdOutlineInsertChart, path: '/chart' },
   ];
 
   const selectedPage =
