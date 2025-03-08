@@ -1,7 +1,10 @@
 @import "tailwindcss";
+@import 'ag-grid-community/styles/ag-grid.css';
+@import 'ag-grid-community/styles/ag-theme-alpine.css';
 
 body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
+  color: #333333;
 }
